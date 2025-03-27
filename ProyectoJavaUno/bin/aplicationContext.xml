@@ -10,5 +10,8 @@
 ">
 <bean id="miEmpleado" class="es.eviden.IoC.DirectorEmpleado">
 </bean>
-
+<bean id="miEmpleado2" class="es.eviden.IoC.SecretarioEmpleado">
+</bean>
+<bean id="miEmpleado3" class="es.eviden.IoC.JefeEmpleado">
+</bean>
 </beans>
